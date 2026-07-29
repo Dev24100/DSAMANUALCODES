@@ -45,6 +45,9 @@ I will continuously upload programs topic by topic while learning DSA.
 
 ## 📁 Repository Structure
 
+## 📂 Repository Structure
+
+```text
 DSA-MANUAL-CODES
 │
 ├── README.md
@@ -118,3 +121,4 @@ DSA-MANUAL-CODES
 └── 16-Searching
     ├── README.md
     └── ...
+```
